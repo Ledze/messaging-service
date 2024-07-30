@@ -1,0 +1,12 @@
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\bin\Debug\net8.0\Training.MessageDelivery.Common.deps.json
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\bin\Debug\net8.0\Training.MessageDelivery.Common.dll
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\bin\Debug\net8.0\Training.MessageDelivery.Common.pdb
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\obj\Debug\net8.0\Training.MessageDelivery.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\obj\Debug\net8.0\Training.MessageDelivery.Common.AssemblyInfoInputs.cache
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\obj\Debug\net8.0\Training.MessageDelivery.Common.AssemblyInfo.cs
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\obj\Debug\net8.0\Training.MessageDelivery.Common.csproj.CoreCompileInputs.cache
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\obj\Debug\net8.0\Training.MessageDelivery.Common.sourcelink.json
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\obj\Debug\net8.0\Training.MessageDelivery.Common.dll
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\obj\Debug\net8.0\refint\Training.MessageDelivery.Common.dll
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\obj\Debug\net8.0\Training.MessageDelivery.Common.pdb
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.Common\obj\Debug\net8.0\ref\Training.MessageDelivery.Common.dll
