@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "P3wm0sQGDQHh+upI3QodFbTPLsA7SpgpnWWbdz+Yp+A=",
+  "Source": "Training.MessageDelivery.WebAPI",
+  "BasePath": "_content/Training.MessageDelivery.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
