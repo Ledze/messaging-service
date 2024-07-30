@@ -1,0 +1,16 @@
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\bin\Debug\net8.0\Training.MessageDelivery.ASB.deps.json
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\bin\Debug\net8.0\Training.MessageDelivery.ASB.dll
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\bin\Debug\net8.0\Training.MessageDelivery.ASB.pdb
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\bin\Debug\net8.0\Training.MessageDelivery.Common.dll
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\bin\Debug\net8.0\Training.MessageDelivery.Common.pdb
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\Training.MessageDelivery.ASB.csproj.AssemblyReference.cache
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\Training.MessageDelivery.ASB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\Training.MessageDelivery.ASB.AssemblyInfoInputs.cache
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\Training.MessageDelivery.ASB.AssemblyInfo.cs
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\Training.MessageDelivery.ASB.csproj.CoreCompileInputs.cache
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\Training.MessageDelivery.ASB.sourcelink.json
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\Training.0E55E920.Up2Date
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\Training.MessageDelivery.ASB.dll
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\refint\Training.MessageDelivery.ASB.dll
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\Training.MessageDelivery.ASB.pdb
+C:\Users\antonina.lebedzeva\source\repos\Training.MessageDelivery\Training.MessageDelivery.ASB\obj\Debug\net8.0\ref\Training.MessageDelivery.ASB.dll
